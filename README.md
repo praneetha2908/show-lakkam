@@ -9,3 +9,8 @@ I enjoy it with my **friends**.
 1. Museum or Art Gallery - Requires long drive.
 3. Popular Shopping Mall - Requires transportation planning or a few hours drive.
 4. Nearby Tourist Attraction -Walking distance or short drive.
+
+### Side Dishes for Main Dish
+- Mashed Potatoes  
+- Steamed Vegetables  
+- Garlic Bread
