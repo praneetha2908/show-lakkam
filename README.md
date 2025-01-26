@@ -50,5 +50,6 @@ new Promise((resolve, reject) => {
   // or
   reject("failure reason");
 });
+```
 
 [Source for code snippet](https://code.pieces.app/collections/javascript)
