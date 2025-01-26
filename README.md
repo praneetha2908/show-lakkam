@@ -29,3 +29,11 @@ In this section, I’ve compiled a list of actors who I think could do an excell
 | Prabhas                | A versatile actor with a strong screen presence.                    | 45               |
 | Nani                   | Great at portraying a mix of humor and seriousness, ideal for a nuanced character. | 40               |
 | Hrithik Roshan         | Has the charm and intensity to play a complex character.            | 50               |
+---
+
+## Favorite Quotes
+> "Success is not just about what you achieve, it's about the people you inspire."  
+*Chiranjeevi*
+
+> "Don't fear failure. Fear being in the exact same place next year as you are today."  
+*Jr. NTR*
