@@ -17,3 +17,15 @@ I enjoy it with my **friends**.
 
 ## Check out MyMovie
 [MyMovie -PraneethaReddy's Favorite Movie](MyMovie.md)
+
+---
+
+## Actors I Would Love to See in the Role
+In this section, I’ve compiled a list of actors who I think could do an excellent job playing the main role in *Sita Ramam*, besides the original actor Dulquer Salmaan. These actors were chosen based on their ability to bring depth to the character and their versatility. Here’s a list of suggestions:
+
+| Actor Name             | Reason for Picking Them                                            | Age (as of 2025) |
+|------------------------|--------------------------------------------------------------------|------------------|
+| Amitabh Bachchan       | Known for his powerful acting and ability to portray emotional depth. | 82               |
+| Prabhas                | A versatile actor with a strong screen presence.                    | 45               |
+| Nani                   | Great at portraying a mix of humor and seriousness, ideal for a nuanced character. | 40               |
+| Hrithik Roshan         | Has the charm and intensity to play a complex character.            | 50               |
