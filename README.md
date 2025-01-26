@@ -40,6 +40,8 @@ In this section, I’ve compiled a list of actors who I think could do an excell
 ---
 
 ## Code Fencing Example
+This code snippet demonstrates the creation of a basic JavaScript **Promise**. The Promise constructor takes an executor function with two arguments: `resolve` and `reject`. The asynchronous operation takes place inside the executor function, where we either resolve the promise on success or reject it with a failure reason.
+```javascript
 new Promise((resolve, reject) => {
   // asynchronous operation
 
@@ -48,5 +50,5 @@ new Promise((resolve, reject) => {
   // or
   reject("failure reason");
 });
-This code snippet demonstrates the creation of a basic JavaScript **Promise**. The Promise constructor takes an executor function with two arguments: `resolve` and `reject`. The asynchronous operation takes place inside the executor function, where we either resolve the promise on success or reject it with a failure reason.
+
 [Source for code snippet](https://code.pieces.app/collections/javascript)
