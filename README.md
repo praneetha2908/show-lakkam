@@ -16,4 +16,4 @@ I enjoy it with my **friends**.
 - Garlic Bread
 
 ## Check out MyMovie
-[MyMovie -PraneethaReddy's Favorite Movie](MyMovie)
+[MyMovie -PraneethaReddy's Favorite Movie](MyMovie.md)
